@@ -1,0 +1,5 @@
+﻿Add taskfactory for logging keys
+Pick a system to log keys (File, SQLite, MySQL)
+Add encryption for logged data
+Take screen shot X number of seconds in Queued task
+Convert to service from GUI
